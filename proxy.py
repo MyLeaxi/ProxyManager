@@ -3,8 +3,8 @@ import threading
 import http.client
 
 proxies = [
-    "62.112.11.200:11843:12557354-all-country-US:12557354-all-country-US",
-    "109.236.80.210:12031:12557360-all-country-TR:12557360-all-country-TR"
+    "ip:port:user:pass",
+    "ip:port:user:pass"
 ]
 
 local_host = '127.0.0.1'
